@@ -1,4 +1,4 @@
-# Backpressure - AI Assistant Game
+Neural Flux - AI Assistant Game
 
 A fast-paced, interactive web game inspired by Overcooked, where you play as an AI assistant managing multiple requests under time pressure.
 
