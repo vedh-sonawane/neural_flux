@@ -1,4 +1,4 @@
-Neural Flux - AI Assistant Game
+Neural Flux - AI Assistant Simulation
 
 A fast-paced, interactive web game inspired by Overcooked, where you play as an AI assistant managing multiple requests under time pressure.
 
